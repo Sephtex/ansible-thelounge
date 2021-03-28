@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: Marbug
+  description: Web based IRC client
+  company: Sephtex
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.9
+  platforms:
+  - name: Debian
+    versions:
+    - 9
+    - 9.12
+    - 10
+  galaxy_tags:
+    - web
+    - irc
+    - thelounge
+    - chat
