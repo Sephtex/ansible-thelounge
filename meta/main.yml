@@ -1,8 +1,7 @@
 ---
 galaxy_info:
-  author: Marbug
+  author: Jérémie Astori
   description: Web based IRC client
-  company: Sephtex
   license: "license (MIT)"
   min_ansible_version: 2.6
   platforms:
