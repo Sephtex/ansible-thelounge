@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Jérémie Astori
+  description: Web based IRC client
+  license: "license (MIT)"
+  min_ansible_version: 2.6
+  platforms:
+    - name: Debian
+      versions:
+        - 9
+        - 9.12
+        - 10
+  galaxy_tags:
+    - web
+    - irc
+    - thelounge
+    - chat
